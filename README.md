@@ -1,4 +1,4 @@
-# Go vs Rust vs Python: Realistic CRUD + JWT + Rate Limit Benchmark (2026 Edition)
+# Go vs Rust vs Python: Benchmark (2026 Edition)
 
 Same microservice implemented in **Go (Fiber)**, **Rust (Axum)**, **Python (FastAPI)**.
 
